@@ -11,7 +11,7 @@ JC City Bike Analysis
 -	Ridership typically peaks during the summer months, and drops during the winter periods. This trend has stayed the same
 -	In particular, July – September represents the busiest months, where ridership is at the highest, with a peak in September.
 
-http://localhost:8890/view/images/Monthly%20Trips.png
+![image](https://user-images.githubusercontent.com/75806028/122619822-f4566680-d056-11eb-86e7-30c014c0fac3.png)
 
 -	On average, trips taken lasted only 12 mins. Riders between 31- 40 years old and 41-50 years took a shorter time to get to their destination, compared to those below 30 years or above 50 years. 
 
