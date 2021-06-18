@@ -9,13 +9,13 @@ JC City Bike Analysis
 *	Ridership has grown over the years. In 2019, there were over 400k trips, which represented a 14% growth approximately from 2018. This uptrend has continued into 2020
 -	Total number of bikes however has reduced in 2019 compared to 2018
 -	Ridership typically peaks during the summer months, and drops during the winter periods. This trend has stayed the same
--	In particular, July – September represents the busiest months, where ridership is at the highest, with a peak in September.
+-	In particular, July – September represents the busiest months, where ridership is at the highest, with a peak in September
 
 ![image](https://user-images.githubusercontent.com/75806028/122619822-f4566680-d056-11eb-86e7-30c014c0fac3.png)
 
 -	On average, trips taken lasted only 12 mins. Riders between 31- 40 years old and 41-50 years took a shorter time to get to their destination, compared to those below 30 years or above 50 years. 
-
- 
+-	
+ ![image](https://user-images.githubusercontent.com/75806028/122619933-45665a80-d057-11eb-9869-648a88e1cd7a.png)
 
 -	Most of the working population falls within this range. With the peak riding hours been 8am and 5-6pm, this could mean trips are shorter due to travelling a shorter distance to and from work 
  
