@@ -24,17 +24,11 @@ JC City Bike Analysis
 -	Peak travel times are around 8AM and 5PM-6PM. Most trips are taken on Tuesdays and Wednesdays
 -	71% of riders are males and 23% are females, with 7% been unknown. There’s also high patronage by subscribers who make up about 89% of all riders
 
-  
-
-
-
-
-
-
-
+![image](https://user-images.githubusercontent.com/75806028/122620108-b60d7700-d057-11eb-8e07-5ae901c81ba4.png)
 
 -	Most trips started from Grove St. Park and ended at Hamilton Park. JCBS Depot had the least trips overall
 -	Below is the distribution of start and end stations
- 
+
+![image](https://user-images.githubusercontent.com/75806028/122620188-e35a2500-d057-11eb-8b6b-4c8ed1143c89.png)
 
 
