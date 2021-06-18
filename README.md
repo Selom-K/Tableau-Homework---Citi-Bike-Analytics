@@ -31,4 +31,3 @@ JC City Bike Analysis
 
 ![image](https://user-images.githubusercontent.com/75806028/122620188-e35a2500-d057-11eb-8b6b-4c8ed1143c89.png)
 
-
